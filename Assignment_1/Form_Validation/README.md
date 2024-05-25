@@ -13,8 +13,8 @@ This project is a React-based SignUp Form Component. The form collects user info
 
 ### Form Page
 
-![Form Page](./screenshots/Screenshot (1).jpeg)
+![Submitted Details](screenshots/s2.jpeg)
 
 ### Submitted Details
 
-![Submitted Details](./screenshots/Screenshot (2).jpeg)
+![Form Page](screenshots/s1.jpeg)
