@@ -1,0 +1,47 @@
+.main {
+  margin: 20px auto;
+  width: 400px;
+  padding: 20px;
+  color: white;
+}
+body {
+  background-color: #873535;
+  font-family: Arial, sans-serif;
+}
+
+.errorMsg {
+  color: red;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="password"],
+input[type="tel"] {
+  width: 100%;
+  padding: 10px;
+  margin: 5px 0;
+  border: none;
+  border-radius: 5px;
+}
+
+button {
+  width: 100%;
+  padding: 10px;
+  margin-top: 10px;
+  background-color: rgb(45, 4, 45);
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: darkpurple;
+}
+
+.details {
+  margin-top: 20px;
+  padding: 10px;
+  border: 2px solid purple;
+  border-radius: 5px;
+}
