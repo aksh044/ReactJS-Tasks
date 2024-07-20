@@ -1,0 +1,11 @@
+export const LOGIN_REQUEST = "LOGIN_REQUEST";
+export const LOGIN_SUCCESS = "LOGIN_SUCCESS";
+export const LOGIN_FAIL = "LOGIN_FAIL";
+export const LOGOUT_SUCCESS = "LOGOUT_SUCCESS";
+export const LOGOUT_FAIL = "LOGOUT_FAIL";
+export const CLEAR_ERRORS = "CLEAR_ERRORS";
+export const SET_ERRORS = "SET_ERRORS";
+export const OTP_REQUEST = "OTP_REQUEST";
+export const OTP_SUCCESS = "OTP_SUCCESS";
+export const OTP_FAIL = "OTP_FAIL";
+export const SET_MESSAGE = "SET_MESSAGE";
